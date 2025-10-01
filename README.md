@@ -1,2 +1,2 @@
 # sample-repository
-A demo repository for testing purposes.
+A sample repository for testing purposes.
